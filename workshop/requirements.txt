@@ -1,0 +1,11 @@
+streamlit
+streamlit-option-menu
+streamlit-extras
+python-dotenv
+bcrypt
+pandas
+Pillow
+validators
+extra-streamlit-components
+uuid
+datetime

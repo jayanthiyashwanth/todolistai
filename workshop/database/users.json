@@ -1,0 +1,16 @@
+[
+    {
+        "fullname": "shiro",
+        "username": "shiro123",
+        "email": "shiro@gmail.com",
+        "password": "$2b$12$yTJaBZz2hb4EwOBFPWtPwe014Qc01LMD0PL6nhK9rynb1IV8l0eb6",
+        "created_at": "2026-07-15T12:06:58.141359"
+    },
+    {
+        "fullname": "shiro",
+        "username": "Shiroshiro",
+        "email": "shiro12@gmail.com",
+        "password": "$2b$12$9qEuqo0GwgInZxx4TQ2n9eVrt4k3eDhrHfZ5M0U6Z/T1NdI/2kTI.",
+        "created_at": "2026-07-15T12:10:20.656407"
+    }
+]
